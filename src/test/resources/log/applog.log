@@ -1,0 +1,42 @@
+ [INFO ] Started validating Home Page UI Components 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Log In')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Sign up')]] 
+ [ERROR] Issue while checking for objectorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*/button[contains(text(),'All Cryptocurrencies')]"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-MJCNVCJ', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}), userDataDir=C:\Users\DELL\AppData\Local\Temp\scoped_dir11628_1303717537}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:63854}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=110.0.5481.178, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: 723bdffc738db0ab32bf39797d026819
+*** Element info: {Using=xpath, value=//*/button[contains(text(),'All Cryptocurrencies')]} 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Categories')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'DeFi')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'NFT')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Metaverse')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Polkadot')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'BNB Chain')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Solana')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (723bdffc738db0ab32bf39797d026819)] -> xpath: //*/button[contains(text(),'Avalanche')]] 
+ [INFO ] Completed validating Home Page UI Components 
+ [INFO ] Started validating Home Page UI Components 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Log In')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Sign up')]] 
+ [ERROR] Issue while checking for objectorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*/button[contains(text(),'All Cryptocurrencies')]"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-MJCNVCJ', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}), userDataDir=C:\Users\DELL\AppData\Local\Temp\scoped_dir11968_332674254}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:63998}, webauthn:extension:credBlob=true, acceptInsecureCerts=false, browserVersion=110.0.5481.178, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: aaa9fbebd10637a57b1624670b957167
+*** Element info: {Using=xpath, value=//*/button[contains(text(),'All Cryptocurrencies')]} 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Categories')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'DeFi')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'NFT')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Metaverse')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Polkadot')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'BNB Chain')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Solana')]] 
+ [INFO ] PASS: [[ChromeDriver: chrome on XP (aaa9fbebd10637a57b1624670b957167)] -> xpath: //*/button[contains(text(),'Avalanche')]] 
+ [INFO ] Completed validating Home Page UI Components 
